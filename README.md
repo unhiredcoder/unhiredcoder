@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unhiredcoder&label=Profile%20views&color=0e75b6&style=flat" alt="unhiredcoder" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://unhiredcoder.vercel.app](https://unhiredcoder.vercel.app/project)
+- 👨‍💻 All of my projects are available at [https://unhiredcoder.vercel.app](https://unhiredcoder.vercel.app/projects)
 
 - ⚡ Fun fact **I am funny😅**
 
